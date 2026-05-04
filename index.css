@@ -1,11 +1,15 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-    background-color: rgb(43, 43, 43);
-    width: 100%;
-    height: 100vh;
+  width: 100%;
+  height: 100vh;
+  background-color: antiquewhite;
+}
+
+.wrapper {
+  background-color: rgb(233, 173, 95);
 }
